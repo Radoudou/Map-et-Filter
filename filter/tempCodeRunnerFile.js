@@ -1,0 +1,1 @@
+  // const multiplyby = numbers.filter(number => number % n === 0)
